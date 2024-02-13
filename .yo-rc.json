@@ -1,0 +1,32 @@
+{
+  "generator-ngx-rocket": {
+    "version": "11.0.0",
+    "props": {
+      "location": "path",
+      "strict": true,
+      "skipInstall": false,
+      "skipQuickstart": false,
+      "initGit": true,
+      "usePrefix": true,
+      "appName": "ValentineSilvia",
+      "target": ["web"],
+      "ui": "material",
+      "layout": "side-menu",
+      "features": ["pwa"],
+      "languages": ["it-IT"],
+      "tools": ["prettier", "hads", "compodoc"],
+      "utility": [],
+      "deploy": "github",
+      "projectName": "valentine-silvia",
+      "packageManager": "npm",
+      "mobile": [],
+      "desktop": [],
+      "pwa": true,
+      "auth": false,
+      "lazy": false,
+      "e2e": false,
+      "cypress": false,
+      "angulartics": false
+    }
+  }
+}

@@ -1,0 +1,12 @@
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: nowrap;
+  flex-direction: column;
+}
+.example-card {
+  width: 90%;
+  margin-top: 30px;
+}
